@@ -3,7 +3,7 @@ Gacha game with Chads
 
 ## Architecture
 Front end - plain html/css/js, no canvas
-Back end - python, [fire: fill in db, libs, whatever]
+Back end - python, using Twisted framework for networking *(assuming it is py3 enough now)*, tentatively SQLite for DB
 
 ## License
 Code - ISC
