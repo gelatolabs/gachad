@@ -1,4 +1,4 @@
-![Gachad!][https://github.com/gelatolabs/gachadraw/master/applogo300.png]
+![Gachad!][https://github.com/gelatolabs/gachad/raw/master/applogo300.png]
 # Gachad
 Gacha game with Chads
 
