@@ -9,3 +9,5 @@ Back end - python, using Twisted framework for networking *(assuming it is py3 e
 ## License
 Code - ISC
 Assets - CC-BY
+
+![Gachad!][https://github.com/gelatolabs/gachadraw/master/applogo300.png]
