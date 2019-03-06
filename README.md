@@ -1,3 +1,4 @@
+![Gachad!][https://github.com/gelatolabs/gachadraw/master/applogo300.png]
 # Gachad
 Gacha game with Chads
 
@@ -11,4 +12,3 @@ Code - ISC
 
 Assets - CC-BY
 
-![Gachad!][https://github.com/gelatolabs/gachadraw/master/applogo300.png]
